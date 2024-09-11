@@ -1,0 +1,16 @@
+{
+  "name": "com.cngraphi.grp",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "displayName": "Graphi RenderPipeline",
+  "description": "Customize the rendering pipeline",
+  "author": "Graphi",
+  "keywords": [
+    "graphi",
+    "render",
+    "unity",
+    "hdrp",
+    "pipeline",
+    "graphics"
+  ]
+}
