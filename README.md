@@ -11,9 +11,9 @@
 #
 
 ## 教程及日志
-> 详细教程及相关操作说明请查看 ***[帮助文档](https://github.com/qnstd/RenderingHDRP/blob/master/Documentation/graphi_rendering_hdrp.md)***
+> 详细教程及相关操作说明请查看 ***[帮助文档](https://github.com/qnstd/GRP/blob/master/Documentation/grp.md)***
 
-> 版本迭代请查看 ***[更新日志](https://github.com/qnstd/RenderingHDRP/blob/master/CHANGELOG.md)***
+> 版本迭代请查看 ***[更新日志](https://github.com/qnstd/GRP/blob/master/CHANGELOG.md)***
 
 #
 
